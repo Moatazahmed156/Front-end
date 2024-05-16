@@ -1,0 +1,77 @@
+body {
+  padding: 200px;
+  margin-left: 320px;
+  background-image:url(https://marketplace.canva.com/EAFbVecyBE4/1/0/1131w/canva-green-watercolor-paper-notes-background-a4-document-vZZ3gHxkUTs.jpg) ;
+}
+form{
+  background-color: #ffffff;
+  width: 300px;
+  height: 165px;
+  padding: 20px;
+  border: 1px solid rgb(255, 255, 255);
+}
+h1{
+    background-image: url(https://www.design.svgbackgrounds.com/wp-content/uploads/2021/05/sun-tornado-orange-spinning-background.jpg);
+    width: 300px;
+    height: 35px;
+    margin-bottom: 0;
+    padding: 20px;
+}
+input {
+  width: 100%;
+  margin-bottom: 5px;
+  padding: 9px;
+  border: none;
+  outline: none;
+}
+button {
+  padding: 14px;
+  margin-left: 115px;
+  background-color: #ffffff;
+  border: 1.8px solid;
+  border-radius: 100px;
+  font-size: 30px;
+  color: rgb(255, 123, 0);
+  transition: 0.2s;
+}
+.pass {
+  margin-right: 10px;
+  margin-bottom: 37px;
+  display: line;
+  display: flex;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+.email {
+  margin-bottom: 20px;
+  margin-right: 10px;
+  margin-top: 10px;
+  display: flex ;
+  display: line;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  outline: none;
+}
+.email i {
+  color: gray;
+  font-size: 20px;
+  display: line;
+  display: flex;
+  align-items: center;
+  margin-right: 1px;
+  margin-left: 15px;
+}
+.pass i {
+  color: gray;
+  font-size: 25px; 
+  margin-right: 1px;
+  margin-left: 15px;
+  display: line;
+  display: flex;
+  align-items: center;
+}
+button:hover{
+  color: green;
+  margin-left: 120px;
+  text-shadow: black 1px 1.5px;
+}
